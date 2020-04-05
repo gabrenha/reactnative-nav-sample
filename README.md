@@ -7,7 +7,7 @@ Abrir a pasta do projeto e executar o comando abaixo para baixar todas as depend
 ``` 
 npm install 
 ```
-Executar o terminal atraves do comando:
+Executar o console node atraves do comando:
 ```
 react-native run-android
 ```
